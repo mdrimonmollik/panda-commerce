@@ -19,3 +19,26 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #FF589B;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.caterogies h1{
+    color: white;
+}
+.caterogies img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}

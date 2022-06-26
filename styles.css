@@ -40,5 +40,19 @@
 }
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#newsletter{
+    height: 300px;
+}
+#newsletter h6{
+    color: grey;
+}
+footer {
+    text-align: center;
 }
